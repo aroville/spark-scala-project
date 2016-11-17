@@ -3,3 +3,4 @@ cumulative.csv
 target/**
 project/project/**
 project/target/**
+src/test/**
