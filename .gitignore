@@ -1,3 +1,5 @@
 .idea/**
 cumulative.csv
 target/**
+project/project/**
+project/target/**
